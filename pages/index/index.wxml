@@ -1,0 +1,7 @@
+<view class="main-body">
+  <loading hidden="{{completeLoading}}">LOADING...</loading>
+  <view wx:for="{{videos}}" wx:for-item="video" class="video">
+    <image src="{{video.snippet.thumbnails.high.url}}"></image>
+    <text>{{video.snippet.title}}</text>
+  </view>
+</view>

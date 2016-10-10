@@ -1,0 +1,12 @@
+.video {
+  margin-bottom: 60rpx;
+  text-align: center;
+}
+
+.video image {
+  margin-bottom: 20rpx;
+}
+
+.video text {
+  font-size: 30rpx;
+}
