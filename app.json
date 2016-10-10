@@ -1,0 +1,10 @@
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#ff5252",
+    "navigationBarTitleText": "YOUTUBE",
+    "navigationBarTextStyle": "white"
+  }
+}
